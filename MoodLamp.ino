@@ -1,6 +1,5 @@
 // Mood lamp, cambia entre loscolores de un led RGB
 
-float RGB0[3];
 float RGB1[3];
 float RGB2[3];
 float INC[3];
